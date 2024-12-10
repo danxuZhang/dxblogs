@@ -3,8 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://dxzzz.org/about/</loc>
+    <lastmod>2024-12-10T09:00:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://dxzzz.org/</loc>
-    <lastmod>2024-12-09T23:00:00+08:00</lastmod>
+    <lastmod>2024-12-10T09:00:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
